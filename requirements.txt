@@ -9,3 +9,4 @@ python-box
 requests
 seaborn
 xarray
+scikit-learn 
